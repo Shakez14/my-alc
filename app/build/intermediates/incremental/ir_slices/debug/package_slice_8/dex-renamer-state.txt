@@ -1,0 +1,4 @@
+#Wed Jul 24 14:22:30 CAT 2019
+base.0=C\:\\Users\\Dell\\AndroidStudioProjects\\MyALC\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,1 @@
+This is an android application developed as part of the ALC Phase 1 Challenge. The application is designed to display the ALC website and a personal profile.
